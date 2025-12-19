@@ -56,26 +56,40 @@ require_once('actions.php');
                     Membre inconnu
                 <?php } ?>
             </h2>
-            <div class="details">
-                <ul>
-                    <li><strong>Adresse</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['address'] ?? 'Non défini') ?> <?= htmlspecialchars(getMemberIdBySocid()[0]['town']) ?> <button>Modifier</button></li>
-                    <li><strong>Téléphone</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['phone'] ?? getMemberIdBySocid()[0]['phone_mobile']) ?>  <button>Modifier</button></li>
-                    <li><strong>Date de naissance</strong>
-                    <?php if (getMemberIdBySocid()[0]['birth']!= ""): ?>
+            <div class="files">
+                <h3>Civilité</h3>
+                <div class="content">
+                    <span><strong>Date de Naissance </strong><?php if (getMemberIdBySocid()[0]['birth']!= ""): ?>
                         <?= htmlspecialchars(date('d/m/Y',intval(getMemberIdBySocid()[0]['birth']))) ?>
                     <?php else: ?>
                         Poisson panné 🐟
-                    <?php endif; ?>  
-                    <button>Modifier</button></li>
-                    <li><strong>Fait partie de </strong><?= htmlspecialchars(getMemberIdBySocid()[0]['type']) ?>  <button>Modifier</button></li>
-                    <li><strong>Email </strong><?= htmlspecialchars(getMemberIdBySocid()[0]['email']) ?? 'non défini' ?>  <button>Modifier</button></li>
-                    <li><strong>Adhésion valide jusqu'au </strong><?= htmlspecialchars(date('d/m/Y',getMemberIdBySocid()[0]['datefin'])) ?></li>
-                </ul>
+                    <?php endif; ?>
+                </span>
+                <span><strong>Adresse</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['address'] ?? 'Non défini') ?> <?= htmlspecialchars(getMemberIdBySocid()[0]['town']) ?> <button><i class="icon1"></i></button></span>
+                <span><strong>Nationalité</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['country_code']) ?></span>
+                
+                </div>
+                
+            </div>
+            <div class="files">
+                <h3>Contact</h3>
+                <div class="content">
+                    <span><strong>Téléphone</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['phone'] ?? getMemberIdBySocid()[0]['phone_mobile']) ?>  <button><i class="icon1"></i></button></span>
+                    <span><strong>Email </strong><?= htmlspecialchars(getMemberIdBySocid()[0]['email']) ?? 'non défini' ?>  <button><i class="icon1"></i></button></span>
+                </div>
+            </div>
+            <div class="files">
+                <h3>Adhésion</h3>
+                <div class="content">
+                    <span><strong>Rôle</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['type']) ?></span>
+                    <span><strong>Valide jusqu'au</strong> <?= htmlspecialchars(date('d/m/Y', getMemberIdBySocid()[0]['last_subscription_date_end'])) ?></span>
+                    <span><strong>Montant de la dernière adhésion</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['last_subscription_amount']) ?></span>
+                </div>
             </div>
             <div class="files">
                 <h3>Fichiers</h3>
                 <?php foreach (getDocs() as $docs): ?>
-                    <span><a href="data:<?php echo getDownloadFile($docs['fullpath_orig'], $docs['position'])[0]['filetype'] ?>,"?><?= htmlspecialchars($docs['filename']) ?></a></span>
+                    <span><a href="<?= SITE_ROOT ?>document.php?hashp=<?= $docs['share'] ?>"><?= htmlspecialchars($docs['filename']) ?></a></span><br>
                 <?php endforeach;?>
             </div>
         </div>

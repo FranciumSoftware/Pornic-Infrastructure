@@ -54,7 +54,7 @@ if (isset($_GET['del'])) {
         <input type="button" class="icon1" value="" onclick="window.location='.'"></input>
         <?php endif; ?>
         <input type="submit" class="icon1" value="" aria-label="Rechercher"></input></form></span>
-        <span><a href="logout.php" class="icon1" aria-label="Se déconnecter"></a></span>
+        <span><a href="../logout.php" class="icon1" aria-label="Se déconnecter"></a></span>
         <span><a href="javascript:void(0)" onclick="showCart()" class="icon1" aria-label="Afficher le panier"></a></span>
     </header>
         <nav>

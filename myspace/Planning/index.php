@@ -38,7 +38,7 @@
     <header>
         <span class="h1"><i class="icon1"></i> Planning</span>
         <span class="space"></span>
-        <span><a href="logout.php" class="icon1" aria-label="Se déconnecter"></a></span>
+        <span><a href="../logout.php" class="icon1" aria-label="Se déconnecter"></a></span>
     </header>
         <nav>
             <ul>

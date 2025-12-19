@@ -13,6 +13,9 @@
 ul {
     list-style-type: none;
 }
-.files *{
+.files *:not(button){
     width:100%;
+}
+span button{
+    width: 40px;
 }
