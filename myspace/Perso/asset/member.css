@@ -1,0 +1,18 @@
+.details{
+    width:75%;
+    text-align:left;
+}
+.details p{
+    width:100%;
+}
+.files{
+    width:75%;
+    text-align:left;
+    border-radius: 8px;
+}
+ul {
+    list-style-type: none;
+}
+.files *{
+    width:100%;
+}

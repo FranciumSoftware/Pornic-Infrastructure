@@ -1,0 +1,103 @@
+2025-10-08T15:38:56+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T15:38:59+02:00 | auth.php | session_id=ogfs6348avb5vokf09loecdec6 | oauth_state=e475d8c4babbe74c0996b9622cfae3bd
+2025-10-08T15:38:59+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T15:39:43+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T15:39:45+02:00 | auth.php | session_id=ogfs6348avb5vokf09loecdec6 | oauth_state=25412ef20fff60f7f597608b862f359e
+2025-10-08T15:39:46+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T15:41:49+02:00 | auth.php | session_id=ogfs6348avb5vokf09loecdec6 | oauth_state=ee5c2d239ccab845de69e43b49655be4
+2025-10-08T15:41:49+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T15:41:49+02:00 | callback.php | GET=error=unauthorized_client&error_description=Client+with+id+ceaca19ac9454fcca421f31673cf6eff+does+not+have+the+privilege+to+generate+an+authorization+code | COOKIE={"abuse_interstitial":"psychrometric-unlighted-mandie.ngrok-free.dev","PHPSESSID":"mqcm6rc31qb9o5t898d2leu0on"} | SESSION={"oauth_state":"0535b589528f1a370f27e8f95ab161ca"}
+2025-10-08T15:41:49+02:00 | callback.php | oauth_error=unauthorized_client | description=Client with id ceaca19ac9454fcca421f31673cf6eff does not have the privilege to generate an authorization code
+2025-10-08T16:03:21+02:00 | callback.php | session_id=muhrld8g9nc4gvknmpplsi929c | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:03:21+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:03:22+02:00 | callback.php | session_id=cteks6grb0p5mufvqq2cb544i0 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:03:22+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:03:27+02:00 | callback.php | session_id=u9ue9g8ajtnch3bqh1h5ugg5q6 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:03:27+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:03:29+02:00 | callback.php | session_id=vek3lnu6bjtteucjng742t34d9 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:03:29+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:03:40+02:00 | callback.php | session_id=vacoo318nbifp6led4l6j1rvbi | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:03:40+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:03:41+02:00 | callback.php | session_id=m58htbvkvc0i48m7ggoacql4hu | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:03:41+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:04:04+02:00 | callback.php | session_id=oj5piaenb82qii1n5kq68s168i | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:04:04+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:04:05+02:00 | callback.php | session_id=94vu6smh97rgcdpkqbtrf23sos | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:04:05+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:04:52+02:00 | callback.php | session_id=feq8179uh6a5ffh38kilribrce | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:04:52+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:04:53+02:00 | callback.php | session_id=oiv0hhnj18sjk558ch96kalfe7 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:04:53+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:06:28+02:00 | callback.php | session_id=2i8lt4k07326873el19h2enlum | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:06:28+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:06:30+02:00 | callback.php | session_id=0p9p40lgljta639bbhhu2a42o6 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:06:30+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:09:40+02:00 | callback.php | session_id=vou03f358tqn96fbt09ige5cdd | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:09:40+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:09:42+02:00 | callback.php | session_id=4vg0rp4u87670r8e2qah5l66t3 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:09:42+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:16:04+02:00 | callback.php | session_id=0tfci6u8315tokqcfdln4fbp8u | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:16:04+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:16:06+02:00 | callback.php | session_id=il90rrnt2g8vdof761gug1lc1o | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:16:06+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:28:53+02:00 | callback.php | session_id=nu35pql01vm4m9t5q03ml010sp | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:28:53+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T16:28:54+02:00 | callback.php | session_id=acb0kbr9ifbh4tpr82jcmkb6b2 | incoming_state=(none) | stored_state=(none)
+2025-10-08T16:28:54+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:18:17+02:00 | auth.php | session_id=ogfs6348avb5vokf09loecdec6 | oauth_state=f49bc7c8a7d9a495ff570210eeeecea4
+2025-10-08T18:18:17+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T18:18:17+02:00 | callback.php | GET=error=unauthorized_client&error_description=Client+with+id+ceaca19ac9454fcca421f31673cf6eff+does+not+have+the+privilege+to+generate+an+authorization+code | COOKIE={"abuse_interstitial":"psychrometric-unlighted-mandie.ngrok-free.dev","PHPSESSID":"mqcm6rc31qb9o5t898d2leu0on"} | SESSION={"oauth_state":"0535b589528f1a370f27e8f95ab161ca"}
+2025-10-08T18:18:17+02:00 | callback.php | oauth_error=unauthorized_client | description=Client with id ceaca19ac9454fcca421f31673cf6eff does not have the privilege to generate an authorization code
+2025-10-08T18:18:47+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T18:18:47+02:00 | callback.php | GET=error=unauthorized_client&error_description=Client+with+id+ceaca19ac9454fcca421f31673cf6eff+does+not+have+the+privilege+to+generate+an+authorization+code | COOKIE={"abuse_interstitial":"psychrometric-unlighted-mandie.ngrok-free.dev","PHPSESSID":"mqcm6rc31qb9o5t898d2leu0on"} | SESSION={"oauth_state":"0535b589528f1a370f27e8f95ab161ca"}
+2025-10-08T18:18:47+02:00 | callback.php | oauth_error=unauthorized_client | description=Client with id ceaca19ac9454fcca421f31673cf6eff does not have the privilege to generate an authorization code
+2025-10-08T18:18:49+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T18:18:49+02:00 | callback.php | GET=error=unauthorized_client&error_description=Client+with+id+ceaca19ac9454fcca421f31673cf6eff+does+not+have+the+privilege+to+generate+an+authorization+code | COOKIE={"abuse_interstitial":"psychrometric-unlighted-mandie.ngrok-free.dev","PHPSESSID":"mqcm6rc31qb9o5t898d2leu0on"} | SESSION={"oauth_state":"0535b589528f1a370f27e8f95ab161ca"}
+2025-10-08T18:18:49+02:00 | callback.php | oauth_error=unauthorized_client | description=Client with id ceaca19ac9454fcca421f31673cf6eff does not have the privilege to generate an authorization code
+2025-10-08T18:18:59+02:00 | callback.php | session_id=mqcm6rc31qb9o5t898d2leu0on | incoming_state=(none) | stored_state=0535b589528f1a370f27e8f95ab161ca
+2025-10-08T18:18:59+02:00 | callback.php | GET=error=unauthorized_client&error_description=Client+with+id+ceaca19ac9454fcca421f31673cf6eff+does+not+have+the+privilege+to+generate+an+authorization+code | COOKIE={"abuse_interstitial":"psychrometric-unlighted-mandie.ngrok-free.dev","PHPSESSID":"mqcm6rc31qb9o5t898d2leu0on"} | SESSION={"oauth_state":"0535b589528f1a370f27e8f95ab161ca"}
+2025-10-08T18:18:59+02:00 | callback.php | oauth_error=unauthorized_client | description=Client with id ceaca19ac9454fcca421f31673cf6eff does not have the privilege to generate an authorization code
+2025-10-08T18:39:12+02:00 | callback.php | session_id=qdtlkkclb6nsevrrju7v9od44f | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:39:12+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:39:18+02:00 | callback.php | session_id=nbkulajuu1v2dvv32ngqdcti3j | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:39:18+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:39:31+02:00 | callback.php | session_id=7aa8a95a9b6puecas9ohrgiusf | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:39:31+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:39:55+02:00 | callback.php | session_id=lsdtc0sa4fg1ic2jv5esj5am1t | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:39:55+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:40:43+02:00 | callback.php | session_id=hl3fhrbi341aunectnqkfhu38p | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:40:43+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:42:19+02:00 | callback.php | session_id=rkb5jfsb452egju6k8ku4cdug2 | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:42:19+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:43:08+02:00 | callback.php | session_id=bfkucqi3qdtdgt9cifmj15hnvf | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:43:08+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:43:14+02:00 | callback.php | session_id=ms2ogid901mjr7io7oafsa0obv | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:43:14+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:43:27+02:00 | callback.php | session_id=iaatqmlcjhbsgrmi9emie0vn7d | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:43:27+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:43:51+02:00 | callback.php | session_id=hhh388etg6qpa8j3pq4pgpb4sd | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:43:51+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:44:39+02:00 | callback.php | session_id=j41q7dh1hsltj5a7pav3s8q3o5 | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:44:39+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:45:31+02:00 | callback.php | session_id=roha91h4jmjs9j3kac61gjdbeu | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:45:31+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:46:15+02:00 | callback.php | session_id=250s9728h08mevkgibthcdoi5d | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:46:15+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:49:27+02:00 | callback.php | session_id=kilfs454equalng5997kqjpjh3 | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:49:27+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:51:56+02:00 | callback.php | session_id=lodgabdm4g3mbsjg960m1od3o1 | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:51:56+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T18:55:52+02:00 | callback.php | session_id=8sa47kh4kiq9e5v2mfl53k5snb | incoming_state=(none) | stored_state=(none)
+2025-10-08T18:55:52+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T19:04:45+02:00 | callback.php | session_id=33djo5efshd4gpr5q37umq600j | incoming_state=(none) | stored_state=(none)
+2025-10-08T19:04:45+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T19:08:40+02:00 | callback.php | session_id=bt8hqcpqkp7r0ufb7dbug1751e | incoming_state=(none) | stored_state=(none)
+2025-10-08T19:08:40+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T19:28:05+02:00 | callback.php | session_id=ojr02vg3nar789ud4b6e9fn6sf | incoming_state=(none) | stored_state=(none)
+2025-10-08T19:28:05+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T19:28:06+02:00 | callback.php | session_id=c9ledqnuqaltk9o71tiufo20bb | incoming_state=(none) | stored_state=(none)
+2025-10-08T19:28:06+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T19:30:22+02:00 | callback.php | session_id=61s28jljrm3p7p5gmh8al98cpc | incoming_state=(none) | stored_state=(none)
+2025-10-08T19:30:22+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]
+2025-10-08T19:34:17+02:00 | callback.php | session_id=v4kukc02cfke75vqcfmcp497lr | incoming_state=(none) | stored_state=(none)
+2025-10-08T19:34:17+02:00 | callback.php | GET= | COOKIE=[] | SESSION=[]

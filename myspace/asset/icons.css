@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'icon1';
+    src: url("../Boutique/asset/font/icons.ttf") format("truetype"),
+         url("../Boutique/asset/font/icons.woff") format("woff"),
+}
+.icon1 {
+    font-family:'icon1';
+    font-style: normal;
+}

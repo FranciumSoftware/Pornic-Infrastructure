@@ -1,0 +1,6 @@
+{
+    "require": {
+        "helloasso/helloasso-php": "^1.0",
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}

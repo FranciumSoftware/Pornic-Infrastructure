@@ -1,0 +1,45 @@
+.planningElement{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width:400px;
+    min-height:100px;
+}
+.planningElement span:not(.head){
+    width:100%;
+}
+.attach1{
+    width: 10px;
+    z-index:50;
+    height: 25px;
+    background-color: #0043d2;
+    border-radius: 10px;
+    position: relative;
+    top: -27px;
+    left: -196px;
+}
+.attach2{
+    width: 10px;
+    z-index:50;
+    height: 25px;
+    background-color: #0043d2;
+    border-radius: 10px;
+    position: relative;
+    top: -54px;
+    right: -196px;
+}
+.head{
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top:-49px;
+    display: block;
+    width:fit-content;
+}
+.title{
+    text-align:left;
+    font-size:1.2em;
+    margin-top:-10px;
+    width:100%;
+}
