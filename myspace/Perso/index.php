@@ -57,7 +57,7 @@ require_once('actions.php');
                 <?php } ?>
             </h2>
             <div class="files">
-                <h3>Civilité</h3>
+                <h3><i class="icon1"></i> Civilité</h3>
                 <div class="content">
                     <span><strong>Date de Naissance </strong><?php if (getMemberIdBySocid()[0]['birth']!= ""): ?>
                         <?= htmlspecialchars(date('d/m/Y',intval(getMemberIdBySocid()[0]['birth']))) ?>
@@ -72,14 +72,14 @@ require_once('actions.php');
                 
             </div>
             <div class="files">
-                <h3>Contact</h3>
+                <h3><i class="icon1"></i> Contact</h3>
                 <div class="content">
                     <span><strong>Téléphone</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['phone'] ?? getMemberIdBySocid()[0]['phone_mobile']) ?>  <button><i class="icon1"></i></button></span>
                     <span><strong>Email </strong><?= htmlspecialchars(getMemberIdBySocid()[0]['email']) ?? 'non défini' ?>  <button><i class="icon1"></i></button></span>
                 </div>
             </div>
             <div class="files">
-                <h3>Adhésion</h3>
+                <h3><i class="icon1"></i> Adhésion</h3>
                 <div class="content">
                     <span><strong>Rôle</strong> <?= htmlspecialchars(getMemberIdBySocid()[0]['type']) ?></span>
                     <span><strong>Valide jusqu'au</strong> <?= htmlspecialchars(date('d/m/Y', getMemberIdBySocid()[0]['last_subscription_date_end'])) ?></span>
@@ -87,7 +87,7 @@ require_once('actions.php');
                 </div>
             </div>
             <div class="files">
-                <h3>Fichiers</h3>
+                <h3><i class="icon1"></i> Fichiers</h3>
                 <?php foreach (getDocs() as $docs): ?>
                     <span><a href="<?= SITE_ROOT ?>document.php?hashp=<?= $docs['share'] ?>"><?= htmlspecialchars($docs['filename']) ?></a></span><br>
                 <?php endforeach;?>
